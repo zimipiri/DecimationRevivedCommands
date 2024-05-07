@@ -60,5 +60,5 @@
 - **Output:** The target player starts bleeding.
 
 **/deci fillcaps**
-- (Assuming this is added) Fills the player's bottle caps to a large number (e.g., 1,000,000).
+- Fills the player's bottle caps to a large number (e.g., 1,000,000).
 - **Output:** Player's bottle caps are filled to a large number.
