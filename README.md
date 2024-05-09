@@ -59,6 +59,10 @@
 - Makes the target player bleed.
 - **Output:** The target player starts bleeding.
 
+**/deci clearcond**
+- Removes conditions such as Bleeding, Infection, Radiation.
+- **Output:** Player's conditions are removed (except broken leg).
+
 **/deci fillcaps**
 - Fills the player's bottle caps to a large number (e.g., 1,000,000).
 - **Output:** Player's bottle caps are filled to a large number.
